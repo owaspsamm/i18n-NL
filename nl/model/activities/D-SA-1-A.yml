@@ -10,18 +10,18 @@ level: a11b78917dec4cfdad983cf6d1d17b61
 #Please generate another identifier for your specific activity.
 id: 27bb61f3c6344359b021caeaef5ab07e
 #The title of this activity
-title: Hou u aan basisveiligheidsbeginselen
+title: Hou u aan basisprincipes voor beveiliging
 #Describe the benefit that is achieved by implementing this activity
-benefit: Sets van beveiligingsbasisprincipes beschikbaar voor productteams
+benefit: Basisprincipes voor beveiliging zijn beschikbaar voor productteams
 #A one sentence description of the activity
-shortDescription: Teams worden getraind op het gebruik van basisbeveiligingsbeginselen bij het ontwerp
+shortDescription: Teams worden getraind op het gebruik van basisprincipes voor beveiliging tijdens de ontwerpfase
 #A multi-paragraph description of the activity
 longDescription: |
-  Technisch personeel in het productteam gebruikt tijdens het ontwerpen een korte checklist van beveiligingsbeginselen. Meestal bevatten de veiligheidsbeginselen diepte, het beveiligen van de zwakste link, het gebruik van veilige defaults, eenvoud in het ontwerp van beveiligingsfunctionaliteit. zekerheid van mislukking, evenwicht in veiligheid en bruikbaarheid, functioneren met de minste privilege, voorkomen van veiligheid door onduidelijkheid, enz.
+  Tijdens de ontwerpfase gebruikt technisch personeel in het productteam een korte checklist van beveiligingsprincipes. Deze bevatten ondermeer: bescherming door middel van verschillende lagen, het beveiligen van de zwakste schakel, het gebruik van veilige standaardwaarden, eenvoud in het ontwerp van beveiligingsfunctionaliteit, het veilig falen, een goede balans tussen veiligheid en bruikbaarheid, het uitvoeren met beperkte rechten, het voorkomen van ondoorzichtelijke veiligheid, enz.
 
-  Voor omtrek het team bekijkt elk beginsel in de context van het algehele systeem en identificeert functies die kunnen worden toegevoegd om de veiligheid op elk van deze systemen te vergroten. Limiteer deze zodanig dat ze slechts een kleine extra inspanning kosten boven de normale uitvoeringskosten van functionele vereisten uitkomen. Noteer iets groter, en plan het voor toekomstige releases.
+  Voor externe interfaces evalueert het team elk beveiligingsprincipe tov. het hele systeem en identificeert het functies die kunnen worden toegevoegd om de veiligheid op elk van deze interfaces te vergroten. Beperk deze extra functies zodat ze slechts een kleine extra inspanning kosten boven de normale implementatiekost van het systeem. Noteer deze die toch meer uitgebreid zijn apart en plan ze voor toekomstige releases.
 
-  Train elk productteam met veiligheidsbewustzijn voor dit proces, en voeg meer beveiligd personeel toe voor hulp bij het nemen van ontwerpbeslissingen.
+  Zorg voor opleiding van leden van het productteam rond veiligheidsbewustzijn voorafgaand aan dit proces, en zorg voor extra beveiligingsspecialisten die kunnen helpen bij het nemen van ontwerpbeslissingen.
 #The output of this particular activity
 results:
 #The different metrics that can be used to measure the success of the activity
