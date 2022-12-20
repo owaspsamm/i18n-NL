@@ -3,3 +3,7 @@ files:
     translation: '%original_path%/%original_file_name%'
     excluded_target_languages:
     - tt
+    - fr
+    - de
+    - pt-BR
+    - es-ES
