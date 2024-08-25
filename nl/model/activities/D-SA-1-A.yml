@@ -1,14 +1,3 @@
----
-#===========================================================
-#OWASP SAMM Activity Description
-#===========================================================
-#Link to the stream that this activity belongs to
-stream: 253b012094cf4e0988e08fd22609227d
-#Link to the practice level that this activity belongs to
-level: a11b78917dec4cfdad983cf6d1d17b61
-#Unique identifier (GUID) used to refer to this activity.
-#Please generate another identifier for your specific activity.
-id: 27bb61f3c6344359b021caeaef5ab07e
 #The title of this activity
 title: Hou u aan basisprincipes voor beveiliging
 #Describe the benefit that is achieved by implementing this activity
@@ -22,17 +11,5 @@ longDescription: |
   Voor externe interfaces evalueert het team elk beveiligingsprincipe tov. het hele systeem en identificeert het functies die kunnen worden toegevoegd om de veiligheid op elk van deze interfaces te vergroten. Beperk deze extra functies zodat ze slechts een kleine extra inspanning kosten boven de normale implementatiekost van het systeem. Noteer deze die toch meer uitgebreid zijn apart en plan ze voor toekomstige releases.
 
   Zorg voor opleiding van leden van het productteam rond veiligheidsbewustzijn voorafgaand aan dit proces, en zorg voor extra beveiligingsspecialisten die kunnen helpen bij het nemen van ontwerpbeslissingen.
-#The output of this particular activity
-results:
-#The different metrics that can be used to measure the success of the activity
-metrics:
-#A description of the costs required to implement the activity
-costs:
-#The (standard) roles involved in the implementation of this activity
-personnel:
-#Internal notes that might help the author
-notes:
-#References to other activities that are prerequesites to implement this one.
-relatedActivities:
 #Type Classification of the Document
 type: Activity
