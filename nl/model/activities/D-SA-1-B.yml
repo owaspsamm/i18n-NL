@@ -1,0 +1,11 @@
+#The title of this activity
+title: Identificeer hulpmiddelen en technologieën
+#Describe the benefit that is achieved by implementing this activity
+benefit: Inzicht in technologieën die beveiligingsrisico introduceren
+#A one sentence description of the activity
+shortDescription: Lijst technologieën, raamwerken en integraties binnen de algemene oplossing op om risico's te identificeren.
+#A multi-paragraph description of the activity
+longDescription: |
+  Mensen volgen vaak het pad van de minste weerstand bij het ontwikkelen, inzetten of exploiteren van een softwareoplossing. Nieuwe technologieën worden vaak geïntroduceerd wanneer ze de inspanningen kunnen beperken of versnellen, of de oplossing in staat stellen om schaalwijzigingen door te voeren. Deze nieuwe technologieën kunnen echter nieuwe risico's opleveren voor de organisatie, dewelke je moet beheren.
+
+  Identificeer de belangrijkste technologieën, raamwerken, hulpmiddelen en integraties die voor elke applicatie worden gebruikt. Gebruik de kennis van de architect om zowel de ontwikkeling en de uitvoeringsomgeving als de artefacten te bestuderen. Evalueer vervolgens hun veiligheidskwaliteit en breng belangrijke bevindingen die moeten worden beheerd naar voor.

@@ -1,0 +1,15 @@
+#The title of this activity
+title: Hou u aan basisprincipes voor beveiliging
+#Describe the benefit that is achieved by implementing this activity
+benefit: Basisprincipes voor beveiliging zijn beschikbaar voor productteams
+#A one sentence description of the activity
+shortDescription: Teams worden getraind op het gebruik van basisprincipes voor beveiliging tijdens de ontwerpfase
+#A multi-paragraph description of the activity
+longDescription: |
+  Tijdens de ontwerpfase gebruikt technisch personeel in het productteam een korte checklist van beveiligingsprincipes. Deze bevatten ondermeer: bescherming door middel van verschillende lagen, het beveiligen van de zwakste schakel, het gebruik van veilige standaardwaarden, eenvoud in het ontwerp van beveiligingsfunctionaliteit, het veilig falen, een goede balans tussen veiligheid en bruikbaarheid, het uitvoeren met beperkte rechten, het voorkomen van ondoorzichtelijke veiligheid, enz.
+
+  Voor externe interfaces evalueert het team elk beveiligingsprincipe tov. het hele systeem en identificeert het functies die kunnen worden toegevoegd om de veiligheid op elk van deze interfaces te vergroten. Beperk deze extra functies zodat ze slechts een kleine extra inspanning kosten boven de normale implementatiekost van het systeem. Noteer deze die toch meer uitgebreid zijn apart en plan ze voor toekomstige releases.
+
+  Zorg voor opleiding van leden van het productteam rond veiligheidsbewustzijn voorafgaand aan dit proces, en zorg voor extra beveiligingsspecialisten die kunnen helpen bij het nemen van ontwerpbeslissingen.
+#Type Classification of the Document
+type: Activity
